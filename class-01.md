@@ -1,13 +1,14 @@
-JavaScript:
+Introduction to HTML:
+
+* The browser parses the HTML file first anf then sends requests back to the server for any CSS files and any JavaScript files it has found from <script> elements, and from those, then parses the CSS and JavaScript.
+  
+ * We cab use the  <img> element to put images on a web page.
 
 * For creating a string enclose it in single quote marks. 
 
 * Numbers don't have quotes around them.
 
 * A variable is a container for a value.
-
-
-HTML:
 
 * Attributes contain extra information about the element that won't appear in the content.
 
@@ -40,6 +41,11 @@ Screen readers can use it as a signpost to help visually impaired users navigate
 Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
 Suggests to the developer the type of data that will be populated
 Semantic naming mirrors proper custom element/component naming
+  
+   ## Things I want to know more about
+  Learn website design in depth.
+  
+  
   
   
   
