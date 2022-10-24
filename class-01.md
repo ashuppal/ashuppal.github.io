@@ -2,7 +2,7 @@ Introduction to HTML:
 
 * The browser parses the HTML file first anf then sends requests back to the server for any CSS files and any JavaScript files it has found from <script> elements, and from those, then parses the CSS and JavaScript.
   
- * We cab use the  <img> element to put images on a web page.
+ * We can use the  <img> element to put images on a web page.
 
 * For creating a string enclose it in single quote marks. 
 
