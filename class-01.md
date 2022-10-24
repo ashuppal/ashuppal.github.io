@@ -44,6 +44,7 @@ Semantic naming mirrors proper custom element/component naming
   
    ## Things I want to know more about
   Learn website design in depth.
+  Javascript OOP
   
   
   
