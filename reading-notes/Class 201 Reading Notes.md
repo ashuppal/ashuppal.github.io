@@ -45,7 +45,8 @@ Semantic naming mirrors proper custom element/component naming
   
   **Read class 2**
   
- 
+###Introduction to HTML
+  
 Why is it important to use semantic elements in our HTML?
 Semantic are important as they give our content the correct meaning and appearance so that the browser knows how to display it correctly.
 
@@ -59,7 +60,9 @@ They are used for dates, chemical formulae, and mathematical equations.
 
 When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 The title attribute must be added to provide the full expansion of the term.
-
+  
+###CSS
+  
 What are ways we can apply CSS to our HTML?
 We can apply CSS to HTML with an external stylesheet, with an internal stylesheet, and with inline styles.
   
@@ -70,6 +73,8 @@ It also makes everything more difficult to read and understand.
  What is representing the selector?  - h2
  Which components are considered properties? - color and padding
   
+ ###JavaScript
+  
  What data type is a sequence of text enclosed in single quote marks? 
  string data type
  
@@ -79,6 +84,7 @@ It also makes everything more difficult to read and understand.
  Describe a real world Problem you could solve with a Function.
  Function to calculate mean,mode,median
   
+ ###Conditions
  An if statement checks a __ and if it evaluates to ___, then the code block will execute.
  - condition - true
   
