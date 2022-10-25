@@ -53,9 +53,9 @@ How many levels of headings are there in HTML?
 There are 6 heading elements in HTML.
 <h1> <h2> <h3> <h4> <h5> <h6>
 
-What are some uses for the <sup> and <sub> elements?
-<sup> refers to the superscript
-<sub> refers to the subscript
+
+`<sup>` refers to the superscript
+`<sub>` refers to the subscript
 They are used for dates, chemical formulae, and mathematical equations.
 
 When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
