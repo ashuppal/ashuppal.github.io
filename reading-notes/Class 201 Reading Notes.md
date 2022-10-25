@@ -51,8 +51,7 @@ Semantic are important as they give our content the correct meaning and appearan
 
 How many levels of headings are there in HTML?
 There are 6 heading elements in HTML.
-<h1> <h2> <h3> <h4> <h5> <h6>
-
+`<h1>` `<h2>` `<h3>` `<h4>` `<h5>` `<h6>`
 
 `<sup>` refers to the superscript
 `<sub>` refers to the subscript
