@@ -42,7 +42,62 @@ Finding blocks of meaningful code is significantly easier than searching through
 Suggests to the developer the type of data that will be populated
 Semantic naming mirrors proper custom element/component naming
   
-   ## Things I want to know more about
+  
+  **Read class 2**
+  
+ 
+Why is it important to use semantic elements in our HTML?
+Semantic are important as they give our content the correct meaning and appearance so that the browser knows how to display it correctly.
+
+How many levels of headings are there in HTML?
+There are 6 heading elements in HTML.
+<h1> <h2> <h3> <h4> <h5> <h6>
+
+What are some uses for the <sup> and <sub> elements?
+<sup> refers to the superscript
+<sub> refers to the subscript
+They are used for dates, chemical formulae, and mathematical equations.
+
+When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+The title attribute must be added to provide the full expansion of the term.
+
+What are ways we can apply CSS to our HTML?
+We can apply CSS to HTML with an external stylesheet, with an internal stylesheet, and with inline styles.
+  
+Why should we avoid using inline styles?
+It is the not very efficient to implement inline styles for maintenance. One styling change might require multiple edits within a single web page.
+It also makes everything more difficult to read and understand. 
+
+ What is representing the selector?  - h2
+ Which components are considered properties? - color and padding
+  
+ What data type is a sequence of text enclosed in single quote marks? 
+ string data type
+ 
+ List 4 types of JavaScript operators.
+ Addition, subtraction, multiplication, strictly equal to, does-not-equal
+  
+ Describe a real world Problem you could solve with a Function.
+ Function to calculate mean,mode,median
+  
+ An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+ - condition - true
+  
+ What is the use of an else if?
+ If we have multiple conditions that we need to check then we use else if statement.
+  
+ List 3 different types of comparison operators.
+ === strictly equal
+ < less than
+ > greater than
+   
+ What is the difference between the logical operator && and ||?
+ The && operator only returns true when both conditons are true, while the || operator only returns false when both of its conditions are false.
+   
+ 
+  
+  
+   ### Things I want to know more about
   Learn website design in depth.
   Javascript OOP
   
