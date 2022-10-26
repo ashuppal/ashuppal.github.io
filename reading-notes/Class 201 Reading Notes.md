@@ -99,8 +99,51 @@ It also makes everything more difficult to read and understand.
  What is the difference between the logical operator && and ||?
  The && operator only returns true when both conditons are true, while the || operator only returns false when both of its conditions are false.
    
- 
+ **Read class 03**
+   
+ **Learn HTML**
+1. When should you use an unordered list in your HTML document?
+   Unordered list is used for grouping items that do not have a specific numerical ordering, and their order in the list is meaningless.
+   
+2. How do you change the bullet style of unordered list items?
+   We can use the style attribute to change the bullet style of unordered list.
+   
+3. When should you use an ordered list vs an unorder list in your HTML document?
+  Unordered list is used to create a list of related items, in no particular order. Ordered list is used to create a list of related items, in a specific
+  order.
+   
+4. Describe two ways you can change the numbers on list items provided by an ordered list?
+   We can change the numbers on list items by changing the value attribute.
+   
+   **Learn CSS**
+   
+ 1.Describe the CSS properties of margin and padding.
+
+   The padding sits around the content as white space while the margin is the outermost layer, wrapping the content, padding, and border as whitespace     between this box and other elements.
+   
+ 2.List and describe the four parts of an HTML elements box as referred to by the box model.
+   There are different parts of a box — margin, border, padding, and content. 
   
+   
+   **Learn JS**
+   
+  1. What data types can you store inside of an Array?
+   Array can store various data types — strings, numbers, objects, and even other arrays. 
+   
+  2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+    You can access an item inside an array that is itself inside another array by chaining two sets of square brackets together.
+   
+  3.List five shorthand operators for assignment in javascript and describe what they do.
+    assignment x = 3 , addition assignment x+=3, subtraction assignment x-=3, multiplication assignment x*=3, division assignment x/=3
+   
+  4. Answer will be 10dog - If you combine number with a boolean value then it gets converted into zero.
+   
+  5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+      We can use conditional statement while calculating grade. for e.g. if the marks are under 35 then the grade will be "F". If they are between 35 and 50 then the grade will be "C" etc.
+   
+   6. Give an example of when a Loop is useful in JavaScript.
+  We can use loop for various purposes. One example can be: if the input provided by the user is less than 10 then display the answer otherwise keep adding/subtracting numbers.
+   
   
    ### Things I want to know more about
   Learn website design in depth.
