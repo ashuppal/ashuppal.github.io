@@ -144,7 +144,60 @@ It also makes everything more difficult to read and understand.
    6. Give an example of when a Loop is useful in JavaScript.
   We can use loop for various purposes. One example can be: if the input provided by the user is less than 10 then display the answer otherwise keep adding/subtracting numbers.
    
+   
+ ***Read class 04***
+   
+   ***Creating Hyperlinks***
+   
+   1. To create a basic link, we wrap text or other content inside what element?
+      To create a basic link, we wrap text or other content inside `<a>`element.
+   
+   2. The href attribute contains what information?
+      It contains the web address.
+   
+   3. What are some ways we can ensure links on our pages are accessible to all readers?
+      One of the best accessibility aids a screen reader user can have is an excellent content structure with headings, paragraphs, lists, etc.
+      You should use clear language that is not overly complex and doesn't use unnecessary jargon or slang terms.
+      You should give meaningful text labels, give text alternatives.
+   
   
+   ***CSS Layout***
+   
+  1.What is meant by “normal flow”?
+   Normal Flow is the way that Block and Inline elements are displayed on a page before any changes are made to their layout. The flow is essentially a      set of things that are all working together and know about each other in your layout.
+   
+  2.What are a few differences between block-level and inline elements?
+   Block elements always start from a new line. Inline elements never start from a new line.
+   Block elements cover space from left to right as far as it can go. Inline elements only cover the space as bounded by the tags in the HTML element.
+   
+  3.___ positioning is the default for every html element.
+   Static positoning is the default for every html element.
+   
+  4.Name a few advantages to using absolute positioning on an element.
+   Absolute positioning takes elements out of the regular document flow while also affecting the layout of the other elements on the page.
+   This is a very powerful type of positioning that allows you to place any page element exactly where you want it. 
+   
+   
+  5.What is a key difference between fixed positioning and absolute positioning?
+   Absolute positioning fixes an element in place relative to its nearest positioned ancestor. Fixed positioning elements are fixed with respect to the      viewport.
+   
+   
+   ***Learn JS***
+   
+  1.Describe the difference between a function declaration and a function invocation.
+   
+    When we declared functions, they are not executed immediately. They are saved for later use, and will be executed later, when they are called upon which is known as invoking a function.
+   
+  2.What is the difference between a parameter and an argument?
+   
+    The values that are declared within a function when the function is called are known as an argument. Whereas, the variables that are defined when the     function is declared are known as a parameter.
+   
+   ***Pair programming***
+   Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+   
+   Engaged collaboration : With engaged collaboration the coding experience is more engaging and both programmers are more focused than if they were       working alone. 
+   Job interview readiness : Pair programming will help you get ready for a job interview as it will improve your technical communication and confidence to explain your code.
+   
    ### Things I want to know more about
   Learn website design in depth.
   Javascript OOP
