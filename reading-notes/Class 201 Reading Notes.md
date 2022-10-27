@@ -198,6 +198,36 @@ It also makes everything more difficult to read and understand.
    Engaged collaboration : With engaged collaboration the coding experience is more engaging and both programmers are more focused than if they were       working alone. 
    Job interview readiness : Pair programming will help you get ready for a job interview as it will improve your technical communication and confidence to explain your code.
    
+   ***Read class 05***
+   ***HTML Media***
+   
+1. What is a real world use case for the alt attribute being used in a website?
+   Alt attributes enable screen readers to read the information about on-page images for the benefit of a person with complete lack of sight, visually impaired, or who is otherwise unable to view the images on the page. Alt text will be displayed in place of an image if an image file cannot load.
+   (*https://moz.com/)
+2. How can you improve accessibility of images in an HTML document?
+   Add alt text which will help convey proper message to all users. Use Semantic HTML and use clear language.
+3. Provide an example of when the figure element would be useful in an HTML document.
+   It will be useful to organize your webpage.The figure tag is used to semantically organize the content of images, videos, audios or even charts or tables, block of codes in the HTML document.
+4. Describe the difference between a gif image and an svg image, pretend you are explaining to an elder in your community.
+   Gif is a good choice for simple images and animations. SVG is ideal for user interface elements, icons, diagrams, etc., that must be drawn accurately at different sizes.
+5. What image type would you use to display a screenshot on your website and why?
+   I'll use lossless format for screenshots. This is particularly important if there's any text in your screenshot, as text easily becomes fuzzy and unclear under lossy compression.
+   
+   ***Learn CSS***
+   
+1. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
+   The color property defines the foreground color of an HTML element's content and the background-color property defines the element's background color. 
+2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
+   Use background color and use different color for various texts on the webpage.
+3. What should you consider when choosing fonts for an HTML document?
+   You should use web safe fonts for your HTML document.
+4. What do font-size, font-weight, and font-style do to HTML text elements?
+   The size attribute specifies how large a font will be displayed in either relative or absolute terms. 
+   The font-weight property sets how thick or thin characters in text should be displayed.
+   The font-style property is mostly used to specify italic text. This property has three values: normal - The text is shown normally. italic,oblique 
+5. Describe two ways you could add spacing around the characters displayed in an h1 element.
+   We can use font-size and line-height.
+   
    ### Things I want to know more about
   Learn website design in depth.
   Javascript OOP
