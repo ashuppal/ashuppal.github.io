@@ -228,6 +228,37 @@ It also makes everything more difficult to read and understand.
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
    We can use font-size and line-height.
    
+   
+   
+   ###Read class 06 ###
+   ###JavaScript Object Basics###
+
+How would you describe an object to a non-technical friend you grew up with?
+   
+Generally, the meaning of an object will differ based on the type we use. e.g. he bought a car. Here, a car is an object.
+In programming, the object has state, behavior, and identity. 
+In programming, class is a template. It contains group of objects that has common properties. Now, Car becomes class(template) and all its related value are grouped as data member(variables) and member function(method).
+*https://medium.com/
+   
+What are some advantages to creating object literals?
+The advantage to creating object literals us that thet offer convenience, flexibility in declaration, and less code during declaration. 
+   
+How do objects differ from arrays?
+Arrays are used to create and store data while object represents things with properties.
+   
+Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+Bracket notation is that the bracket notation allows us to access object properties using variable or when the property's key is a number or includes a symbol or is two words with a space.
+   
+Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+ The this keyword refers to the current object the code is being written inside — so in this case this is equivalent to name and age."this" enables you to use the same method definition for every object you create.
+   
+   ###Introduction To The DOM###
+What is the DOM?
+The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+   
+Briefly describe the relationship between the DOM and JavaScript.
+The DOM is not a programming language, but without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts.
+
    ### Things I want to know more about
   Learn website design in depth.
   Javascript OOP
