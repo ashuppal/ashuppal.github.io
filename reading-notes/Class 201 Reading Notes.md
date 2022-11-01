@@ -264,6 +264,32 @@ The DOM is not a programming language, but without it, the JavaScript language w
   Javascript OOP
   
   
+  ###Read class 07###
+   
+  ###Domain Modeling###
+Explain why we need domain modeling.
+The primary goals of domain modeling are to identify the key concepts in a particular domain, then clearly articulate how those concepts relate in a consistent and predictable way.
+   
+###HTML Table Basics###
+Why should tables not be used for page layouts?
+We should not use tables for page layouts because layout tables reduce accessibility for visually impaired users,Tables are not automatically responsive. This can result in the code being harder to write, maintain, and debug.
+   
+List and describe 3 different semantic HTML elements used in an HTML <table>.
+An HTML table consists of one <table> element and one or more <tr>, <th>, and <td> elements. The <tr> element defines a table row, the <th> element defines a table header, and the <td> element defines a table cell. // w3schools.com
+
+###Introducing Constructors###
+   
+What is a constructor and what are some advantages to using it?
+A constructor is a special method of a class or structure in object-oriented programming that initializes a newly created object of that type. Whenever an object is created, the constructor is called automatically. It can be used to set initial values for object attributes
+   
+How does the term this differ when used in an object literal versus when used in a constructor?
+Objects created using object literal are singletons, this means when a change is made to the object, it affects the object entire the script. Whereas if an object is created using constructor function and a change is made to it, that change won't affect the object throughout the script. //tutorialspoint.com
+   
+###Object Prototypes Using A Constructor###
+In JavaScript, an object can inherit properties of another object. The object from where the properties are inherited is called the prototype. In short, objects can inherit properties from other objects — the prototypes.
   
+   
+   
+   
   
   
