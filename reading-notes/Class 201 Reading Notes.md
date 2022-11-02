@@ -287,6 +287,32 @@ Objects created using object literal are singletons, this means when a change is
    
 ###Object Prototypes Using A Constructor###
 In JavaScript, an object can inherit properties of another object. The object from where the properties are inherited is called the prototype. In short, objects can inherit properties from other objects — the prototypes.
+   
+   
+### Read class 08 ###
+
+###Learn CSS - Flexbox###
+   
+Flexbox is designed for one-dimensional content. Explain what this means.
+The Flexible Box Layout Model (flexbox) is a layout model designed for one-dimensional content. It excels at taking a bunch of items which have different sizes, and returning the best layout for those items.
+
+Explain the difference between the main axis and cross axis.
+The main axis is the one set by your flex-direction property.The cross axis runs in the other direction to the main axis, so if flex-direction is row the cross axis runs along the column. 
+   
+How can using certain properties of flexbox negatively impact accessibility?
+The row-reverse and column-reverse values are a good example of properties that can negatively impact accessibility. The reordering only happens for the visual order, not the logical order. This is important to understand as the logical order is the order that a screen reader will read out the content, and anyone navigating using the keyboard will follow.
+   
+###CSS Layout - Flexbox###
+   
+What are some advantages of using flexbox over float?(https://www.geeksforgeeks.org/)
+These are the following reasons to use flexbox over floats. 
+Positioning child elements becomes easier with flexbox.
+Flexbox is responsive and mobile-friendly.
+Flex container’s margins do not collapse with the margins of its content.
+We can easily change the order of elements on our webpage without even making changes in HTML.
+
+How does this topic connect with your long term goals?
+As I want to become Full stack developer, understanding how each element affects the display of your webpage/app is really improtant to understand. It is important for creating websites that look good and are also user friendly.
   
    
    
