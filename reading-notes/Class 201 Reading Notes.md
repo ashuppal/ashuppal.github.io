@@ -314,8 +314,38 @@ We can easily change the order of elements on our webpage without even making ch
 How does this topic connect with your long term goals?
 As I want to become Full stack developer, understanding how each element affects the display of your webpage/app is really improtant to understand. It is important for creating websites that look good and are also user friendly.
   
+###Read class09###
    
+###HTML Forms###
+Why are forms so important in web development?
+Web forms are a very powerful tool for interacting with users. They are mainly used for collecting data from users, or allowing them to control a user interface.
    
+When designing a form, what are some key things to keep in mind when it comes to user experience?(https://blog.hubspot.com/)
+Few key elements to remember while desigining a form are 
+1. Be simple and straightforward.
+2.Arrange your form fields from easiest to hardest.
+3.Use inline form field validation.
+4. Align text to the left. 
+5.Clearly title your form. 
+6.Use auto-fill browsers etc.
    
-  
-  
+List 5 form elements and explain their importance.
+The <label> element defines a label for several form elements.
+The <select> element defines a drop-down list
+The <input> element can be displayed in several ways, depending on the type attribute.
+The <option> elements defines an option that can be selected.
+The <textarea> element defines a multi-line input field 
+   
+###Introduction To Events###
+   
+How would you describe events to a non-technical friend?
+Event is something that happens when the user fdoes something.For example, in an airport, when the runway is clear for take off, a signal is communicated to the pilot. As a result, the plane can safely take off.
+   
+When using the addEventListener() method, what 2 arguments will you need to provide?
+The 2 arguments we need to provide are "type" and "listener".
+   
+Describe the event object. Why is the target within the event object useful?(w3Schools)
+An event, like a button click, is represented as an object. When the user generates an event, the system creates an event object which is then sent to the listener that has been registered for the GUI component. Then, a method in the listener object is invoked. The target property of the event object is always a reference to the element the event occurred upon.
+   
+What is the difference between event bubbling and event capturing?
+Event Capturing is opposite to event bubbling, where in event capturing, an event moves from the outermost element to the target. Otherwise, in case of event bubbling, the event movement begins from the target to the outermost element in the file.
