@@ -349,3 +349,32 @@ An event, like a button click, is represented as an object. When the user genera
    
 What is the difference between event bubbling and event capturing?
 Event Capturing is opposite to event bubbling, where in event capturing, an event moves from the outermost element to the target. Otherwise, in case of event bubbling, the event movement begins from the target to the outermost element in the file.
+   
+###Read class 10###
+   
+### Troubleshooting JavaScript###
+
+Name some key differences between a Syntax Error and a Logic Error.
+a. Syntax errors are spelling errors in your code that actually cause the program not to run at all, or stop working part way through while Logic errors are errors where the syntax is actually correct but the code is not what you intended it to be, meaning that program runs successfully but gives incorrect results.
+b. Syntax errors are usually okay to fix, as long as you are familiar with the right tools and know what the error messages mean. Logical errors are often harder to fix than syntax errors, as there usually isn't an error message to direct you to the source of the error.
+   
+List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
+I have encountered both syntax and logical errors. For me the syntax error generally happens when I forget to close/accidently delete the curly braces for my function. I have encountered logical error where while calculating the average cookies in my function, I used a specific value insted of grabbing the element from an arrray. So I was getting the answer but it was incorrect.
+   
+How will this topic continue to influence your long term goals?
+I think recognizing and handling the errors is one of the most important thing any developer needs to learn. It is impossible to write a perfect code when you are colaborating with different teams and the code is changing constantly. It is important that you can use tests and debugger to find, catch and solve those errors.
+   
+ ###The JavaScript Debugger###
+   
+How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
+The debugger keyword stops the execution of JavaScript, and calls the debugging function. In simple words, if you make a mistake then you can't go ahead without looking what mistake you have made.
+   
+Define what a breakpoint is.
+In JavaScript, at each breakpoint your code will stop executing, and let you examine JavaScript values. After examining values, you can resume the execution of code.
+   
+What is the call stack?
+A call stack is a mechanism for an interpreter to keep track of its place in a script that calls multiple functions — what function is currently being run and what functions are called from within that function, etc.
+   
+###Things I want to know more about###
+How call stack works while running a function
+How to write tests to catch errors.
