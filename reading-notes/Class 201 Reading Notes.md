@@ -378,3 +378,49 @@ A call stack is a mechanism for an interpreter to keep track of its place in a s
 ###Things I want to know more about###
 How call stack works while running a function
 How to write tests to catch errors.
+
+
+###Read class 11###
+ 
+###Video and Audio Content###
+
+Explain how the ability to use video and audio on the web has evolved since the early 2000s.
+In early 2000s plugin technologies became very popular, such as Java Applets and Flash — these allowed web developers to embed rich content into webpages such as videos and animations, which just weren't available through HTML alone. Embedding these technologies was achieved through elements like <object>, and the lesser-used <embed>, and they were very useful at the time. They have since fallen out of fashion due to many problems, including accessibility, security, file size, and more. These days major browsers have stopped supporting plugins such as Flash.
+   
+Describe the use of the src and controls attributes in the <video> element.
+The src attribute specifies the location (URL) of the video file.
+The controls attribute is a boolean attribute. When present, it specifies that video controls should be displayed.
+   
+Why is it important to have fallback content inside the <video> element?
+Embedded content elements can have fallback content. This is to be used when the external resource cannot be used (e.g. because it is of an unsupported format).
+   
+Write a very short story where <audio> and <video> are characters.
+<audio> and <video>  allows controlling the audio/video playback, including volume, pause/resume playback. Allows the audio/video to play again whenever it finishes. Makes the media play with the turned off sound by default. Specifies buffering large files.
+  
+  
+###A Complete Guide To Grid ###
+
+How does Grid layout differ from Flex?
+Grid and flexbox. The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time.
+  
+Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
+Grid container : Using the value grid or inline-grid on an element turns it into a grid container using CSS Grid Layout, and any direct children of this element become grid items. When an element becomes a grid container it establishes a grid formatting context.
+Grid Item: A grid item is a child element that is present inside a grid container. 
+Grid line: A series of numbered horizontal and perpendicular lines that divide a map into squares to form a grid by means of which any point may be located by a system of rectangular coordinates.
+  
+###Responsive Images###
+
+Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
+Having responsive images is important because it helps us deliver optimal file size, the right image for the right screen size, improves user experience and improves loading time. Having various versions of your image is important for creating a responsive image.(lab21.gr)
+  
+Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+srcset defines the set of images we will allow the browser to choose between, and what size each image is. Each set of image information is separated from the previous one by a comma. Sizes defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose, when certain media conditions are true.
+  
+How is srcset more helpful for responsive images than CSS or JavaScript?
+srcset more helpful because srcset allows you to define a list of different image resources along with size information so that browser can pick the most appropriate image based on the actual device's resolution.
+  
+###Things I want to know more about###
+srcset attribute. how to make images more responsive.
+  
+  
+   
