@@ -422,5 +422,40 @@ srcset more helpful because srcset allows you to define a list of different imag
 ###Things I want to know more about###
 srcset attribute. how to make images more responsive.
   
+ ###Read class 12###
+  
+ ###JavaScript Canvas###
+
+What does the <canvas> allow a developer to acheive?
+The <canvas> element allows you to draw 2D graphics using JavaScript.
+  
+What is the importance of the closing `</canvas> tag?
+Any content between the opening and closing tags is fallback content that will display only if the browser doesn’t support the <canvas> element. 
+  
+Explain what the getContext() method does.
+getContext() method returns a render context object.
+  
+###Chart.js Documentation###
+
+What is Chart.js and how it can be brought into your project?
+Chart. js is a popular open-source library for visualizing data. It allows you to create different types of charts from datasets such as bar charts, pie, line, donut, scatters, and many more. In this tutorial, we are going to learn how to draw charts with Chart.(https://www.stanleyulili.com/javascript) 
+  
+List 3 different Chart types you can create using Chart.js.
+Bar chart.
+Line chart.
+Pie chart.
+  
+###Easily Create Stunning Animated Charts with Chart.js###
+
+What are some advantages to displaying data via a chart over a table?
+Charts are most useful when the data you are presenting is quantitative and has fewer distinct axes to measure. More importantly, charts can show you the “shape” of data—patterns that emerge when the data is examined altogether instead of presented in sets of individual values.(sisense.com)
+  
+How could Chart.js aid your previously created applications visually?
+Charts enable you to visually compare multiple sets of data. Charts can help people better understand and remember information. Many people understand a picture more quickly than blocks of text. A compelling chart can help you make your point more convincingly and lend credibility to your presentation.
+
+  
+###Things I want to know more about###
+JavaScript libraries
+
   
    
