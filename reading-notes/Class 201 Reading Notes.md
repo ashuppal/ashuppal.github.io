@@ -457,5 +457,23 @@ Charts enable you to visually compare multiple sets of data. Charts can help peo
 ###Things I want to know more about###
 JavaScript libraries
 
+
+###Read class 13###
+
+###Local Storage and How To Use It On Websites###
+  
+Why would a developer use local storage for a web application?
+Local storage allows developers to store and retrieve data in the browser. The data stored in local storage will not expire. This means the data will persist even if the tab or the browser window is closed.
+  
+What information should not be stored in local storage?
+Local storage should never be used for sensitive information such as passwords or personal information. Doing so creates a security risk that is avoidable if the site’s server is already secure.
+
+Local storage can store what type of data? How would you convert it to that type before storing?
+Local Storage can only store string data for its keys and values. The datastore is only accessible to JavaScript within that domain.You can work around this by using the native JSON.stringify() and JSON.parse() methods.
+  
+###Things I want to know more about###
+How does the methods JSON.stringify() and JSON.parse() actually work? 
+
+
   
    
