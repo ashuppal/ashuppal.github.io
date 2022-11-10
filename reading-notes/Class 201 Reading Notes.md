@@ -505,4 +505,20 @@ CSS transitions and animation plays important role in User Interface of your web
 ###Things I want to know more about###
 Different types of transitions and animations.
 
+  ###Read: Class 14 - Psychological Safety###
+  The main purpose of Project Aristotle was to discover what makes an effective team at Google. 
+
+Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams.
+
+The right norms, in other words, could raise a group’s collective intelligence, whereas the wrong norms could hobble a team, even if, individually, all the members were exceptionally bright.
+
+For successful teams, the following points are important:
+
+Psychological safety - If I make a mistake on our team, it is not held against me
+Dependability - When my teammates say they’ll do something, they follow through with it
+Structure and clarity- Our team has an effective decision-making process
+Meaning. -The work I do for our team is meaningful to me
+Impact- I understand how our team’s work contributes to the organization's goals.
+
+In the best teams, members listen to one another and show sensitivity to feelings and needs.
    
