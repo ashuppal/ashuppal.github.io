@@ -12,5 +12,5 @@ What are 3 things I’ll start doing to “un-stick” myself whenever I get stu
 
 The first and the most important thing is to understand the problem completely.Read the problem several times until 
 you can explain it to someone else. After that try to solve the problem manually. Think how you will solve the problem 
-as a human and write steos(psydocode). After that writing code will become easier. And from the past experience, I will 
+as a human and write steos(pseudocode). After that writing code will become easier. And from the past experience, I will 
 try to get a working solution first without making it complex. Refactoring can be done if you have a working solution.
