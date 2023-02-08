@@ -1,1 +1,28 @@
 Readings: Node Ecosystem
+
+
+An Introduction to Node.js on sitepoint.com
+
+How would you describe Node to a non-technical friend?
+Node.js is a program we can use to execute JavaScript on our computers.
+
+What does it mean that Node is a JavaScript runtime?
+Node is a JavaScript runtime because Node binary built the JS program to machine code and OS executes it. 
+All these things happen during the time when we run a JS program/file with node.
+
+What is Node used for?
+Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser.(ref: codecademy.com)
+Node can be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications. 
+
+Additional Questions
+
+Looking ahead at this module’s course schedule, What do you look forward to learning?
+I am looking forward to learn more about testing and also about linked Lists in the first module.
+
+What are your learning goals after reading and reviewing the class README?
+I would like to learn more about CI/CD - Continuous Integration and Deployment.
+
+
+## Things I want to know more about
+- CI/CD 
+-Real-time apps with Socket.io
