@@ -74,4 +74,16 @@ e.g.
 DROP TABLE Movies;
 The above example will remove the movies table.
 
+<img width="374" alt="Screen Shot 2023-02-08 at 11 01 18 AM" src="https://user-images.githubusercontent.com/90730785/217627046-5eb2f93b-4478-448d-a01c-f9b2a5fbe3e6.png">
+<img width="376" alt="Screen Shot 2023-02-08 at 11 01 04 AM" src="https://user-images.githubusercontent.com/90730785/217627104-c0763b50-5511-4680-ac25-751df49b8e13.png">
+<img width="373" alt="Screen Shot 2023-02-08 at 11 00 52 AM" src="https://user-images.githubusercontent.com/90730785/217627121-82458e80-da5e-4541-a6d8-f9c147c1f8ab.png">
+<img width="378" alt="Screen Shot 2023-02-08 at 11 00 11 AM" src="https://user-images.githubusercontent.com/90730785/217627141-1411a20d-568e-4fad-ac2f-60ecc400f5fe.png">
+<img width="379" alt="Screen Shot 2023-02-08 at 10 59 55 AM" src="https://user-images.githubusercontent.com/90730785/217627161-f022c4a9-531f-4f49-92b2-2eaaafefee6d.png">
+<img width="384" alt="Screen Shot 2023-02-08 at 10 59 37 AM" src="https://user-images.githubusercontent.com/90730785/217627191-d1fbe44b-93cd-4d62-85b8-b267878cc10c.png">
+<img width="375" alt="Screen Shot 2023-02-08 at 10 59 07 AM" src="https://user-images.githubusercontent.com/90730785/217627206-85bcaceb-0ccc-49f2-bd61-2f444463d2b9.png">
+<img width="374" alt="Screen Shot 2023-02-08 at 10 58 55 AM" src="https://user-images.githubusercontent.com/90730785/217627218-d67e5457-b895-40de-840e-0466d62e5fa5.png">
+<img width="372" alt="Screen Shot 2023-02-08 at 10 58 25 AM" src="https://user-images.githubusercontent.com/90730785/217627237-f8825c36-d5bf-4cbe-ab19-a030758be1e9.png">
+<img width="372" alt="Screen Shot 2023-02-08 at 10 58 05 AM" src="https://user-images.githubusercontent.com/90730785/217627254-d4d7de3a-8f09-4790-854e-8ba81e01c71a.png">
+<img width="376" alt="Screen Shot 2023-02-08 at 10 57 47 AM" src="https://user-images.githubusercontent.com/90730785/217627268-def6ec93-1144-4c3b-b51b-975a7e8fc112.png">
+<img width="389" alt="Screen Shot 2023-02-08 at 10 57 29 AM" src="https://user-images.githubusercontent.com/90730785/217627281-4c1e434c-3608-4157-b341-082b8a6fa7a1.png">
 
