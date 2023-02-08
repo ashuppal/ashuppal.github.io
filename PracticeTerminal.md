@@ -8,6 +8,7 @@ Windows: you will need an SSH client.
 
 Basic Navigation - An introduction to the Linux directory system and how to get around it.
 
+While working in the terminal, we need to know in which directory we are currently working and what all the files located under it.
 Some basic commands:
 pwd: Print Working Directory - ie. Where are we currently.
 ls: List the contents of a directory.
