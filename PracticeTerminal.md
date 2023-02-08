@@ -27,3 +27,4 @@ cp : Copy - ie. Copy a file or directory.
 mv : Move - ie. Move a file or directory (can also be used to rename).
 rm : Remove - ie. Delete a file.
 
+ Learning to use terminal is important as you can type commands, manipulate files, execute programs, and open documents and allow us to accomplish and automate tasks on a computer without the use of a graphical user interface.
