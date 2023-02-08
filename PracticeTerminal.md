@@ -1,4 +1,4 @@
-##The Command Line What is it, how does it work and how do I get to one
+The Command Line What is it, how does it work and how do I get to one
 
 A command line, or terminal, is a text based interface to the system. First, you will enter commands by typing them on the keyboard and output will be given to you similarly as text. Most commands produce output and it will be listed straight under the issuing of the command.
 How do I get one:  
