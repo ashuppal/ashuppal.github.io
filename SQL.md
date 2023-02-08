@@ -63,6 +63,15 @@ The above example will create a new table named Database with the following colu
 – Version A number (floating point) of the latest version of this database
 – Download_count An integer count of the number of times this database was downloaded
 
+**Altering tables** SQL provides a way for you to update your corresponding tables and database schemas by using the ALTER TABLE statement to add, remove, or modify columns and table constraints.
+e.g.
+ALTER TABLE Movies
+  ADD COLUMN Aspect_ratio FLOAT DEFAULT 2.39;
+The above example will add a column named Aspect_ratio with a FLOAT data type to store the aspect-ratio each movie was released in.
 
+**Dropping tables** In some rare cases, you may want to remove an entire table including all of its data and metadata, and to do so, you can use the DROP TABLE statement.
+e.g.
+DROP TABLE Movies;
+The above example will remove the movies table.
 
 
