@@ -32,5 +32,12 @@ The express. Router() function is used to create a new router object.
 This function is used when you want to create a new router object in your program to handle requests.
 
 By what mean do we initialize express.Router() in an express server?
+To use express.Router() you need to create an instance of the router object by calling express.Router(),apply routes to it, and then tell our application to use those routes.
 
-What do we use route middleware for?
+What do we use route middleware for? (ref: expressjs.com)
+Middleware functions are functions that have access to the request object (req), the response object (res), and the next function in the application’s request-response cycle.
+Middleware functions can intercept a request and either modify the request, modify the response, or pass control to the next middleware function in the stack. Middleware provides a way to separate the concerns of an application into smaller, reusable components.
+
+#### Reflection
+What are your learning goals after reading and reviewing the class README?
+I want to practice more the CRUD Operations with REST and Express.
