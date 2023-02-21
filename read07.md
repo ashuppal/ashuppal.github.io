@@ -1,4 +1,4 @@
-## Intro to JWT
+#### Intro to JWT
 
 What is a JSON Web Token (JWT)?
 JSON Web Token (JWT) is an open standard that defines a compact and self-contained way for securely transmitting information 
@@ -11,7 +11,7 @@ Claims are expected in which structural component of a JWT?
 Claims are expected to be found in the payload component of a JWT.
 
 
-## Are JWTs Secure?
+#### Are JWTs Secure?
 
 If I get a JWT and I can decode the payload, how can we call that secure?
 Even if you are able to decode the contents of a JWT, you still cannot modify the token without knowing the secret key used to sign it.
@@ -23,7 +23,7 @@ Explain how concatenated content and secret can be sent and received securely to
 When sending and receiving JWT, the sender and receiver have a secret piece of information that is known only to them. 
 This shared secret is used to create the digital signature that ensures the authenticity of the token.
 
-## Why use JWT?
+#### Why use JWT?
 
 JWT is Compact and self-contained. Describe how this is useful to a non-technical friend.
 JWTs are compact because they are smaller in size compared to other token formats.
