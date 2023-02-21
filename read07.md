@@ -34,5 +34,6 @@ The three components (the structure) of a JWT signature are:
 Header, payload and signature.
 
 
-
+## Things I want to know more about
+When to use Basic or Bearer Authentication
 
