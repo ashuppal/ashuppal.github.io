@@ -30,4 +30,7 @@ What is Elastic Beanstalk?
 Elastic Beanstalk is a fully-managed service provided by Amazon Web Services (AWS) that makes it easy to deploy, run, and scale web applications and services in the cloud.
   
 Describe the relationship between EC2 and Elastic Beanstalk.
+EC2 is a core service that provides resizable compute capacity in the cloud. It allows you to create and manage virtual servers, known as instances, on which you can deploy your applications.Elastic Beanstalk, on the other hand, is a higher-level service that sits on top of EC2 and provides a platform for deploying and managing web applications.
+
 Name some benefits of using Elastic Beanstalk.
+Simplifies application deployment, Easy to scale, Cost-effective, Supports multiple languages and platforms.
