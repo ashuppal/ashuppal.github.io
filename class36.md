@@ -1,3 +1,4 @@
+#### Application State with Redux
 What is the first principle of Redux?
 You are going to represent the whole state of your application in a single javascript object. All changes are explicit and predictable. This is the first principle of Redux.
 
