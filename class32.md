@@ -1,0 +1,12 @@
+
+#### Scaling Up with Reducer and Context
+
+How do useReducer and useContext work together to simplify state management in a React application? (At least two paragraphs of prose.)
+
+UseReducer and useContext work together to simplify state management in a React application. The useReducer hook is used to manage state in a React application. It takes in a reducer function and an initial state as arguments. The reducer function takes in the current state and an action as arguments.
+ The action is an object that contains a type and a payload. The reducer function returns a new state based on the action type. The useReducer hook returns the current state and a dispatch function. The dispatch function takes in an action as an argument and dispatches it to the reducer function. The reducer function then returns a new state based on the action type. 
+ The useContext hook is used to pass data through the component tree without having to pass props down manually at every level. It takes in a context object and returns the current context value. The context object is created using the createContext function. The createContext function takes in an initial state as an argument. The context object has a Provider component and a Consumer component. The Provider component is used to provide a value to all components that are descendants of the Provider component. 
+ The Consumer component is used to consume the value provided by the Provider component. The useContext hook is used to consume the value provided by the Provider component. The useContext hook takes in a context object as an argument. The context object is created using the createContext function. The createContext function takes in an initial state as an argument. The context object has a Provider component and a Consumer component.
+  The Provider component is used to provide a value to all components that are descendants of the Provider component. The Consumer component is used to consume the value provided by the Provider component. The useContext hook is used to consume the value provided by the Provider component. The useContext hook takes in a context object as an argument. 
+  The context object is created using the createContext function. The createContext function takes in an initial state as an argument. The context object has a Provider component and a Consumer component. 
+  
